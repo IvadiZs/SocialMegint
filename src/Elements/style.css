@@ -1,0 +1,51 @@
+body{
+    background-color: #222222!important;
+    color: white!important;
+}
+
+.gomb{
+    background-color: rgba(255, 112, 69, 1);
+    border: 1px solid black;
+    border-radius: 10%;
+    transition: 0.3s;
+    min-height: 30px;
+}
+
+.gomb:hover{
+    background-color: rgba(255, 112, 69, 0.5);
+    border: 1px solid black;
+    border-radius: 20%;
+}
+
+.card-body{
+    background-color: #333333;
+}
+
+.card{
+    background-color: #333333!important;
+    color: white!important;
+    margin-top: 50px;
+    
+}
+
+.card-title{
+    background-color: #333333;
+}
+
+.darkmode{
+    background-color: #222222!important;
+    color: white!important;
+    transition: 0.5s;
+}
+
+.form-control{
+    background-color: #333333!important;
+    color: white!important;
+    margin-top: 10px!important;
+}
+
+.form-select{
+    background-color: #333333!important;
+    color: white!important;
+    margin-top: 10px!important;
+}
